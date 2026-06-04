@@ -1,8 +1,6 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="https://cdn.aceimg.com/ee175a4f0.png" group-title="info",sfile.mobi Gratis
 https://drive.usercontent.google.com/download?id=1c1epG7IDnMVQlq1JvSekYYVf0jk4bGc4&export=download&authuser=0
-
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.ytimg.com/vi/iLoE00l0Vyg/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvpcOvkxQn6jrwG_lg7JhEcqX8jA" group-title="INDONESIA",SINDONEWSTV V+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -228,3 +226,15 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="GALAXY.id" tvg-name="GALAXY" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/e1624f298.png" group-title="INDONESIA", GALAXY TV V+
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC INDONESIA" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnbc.png" group-title="Indonesia",CNBC INDONESIA TRANSMEDIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://cdn.aceimg.com/0d76470f7.png" group-title="INDONESIA",CNN INDONESIA TRANSMEDIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklis.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png" group-title="INDONESIA",20D TRANSMEDIA
+https://video.detik.com/20detik/smil:20detik-breakingnews.smil/chunklist.m3u8
