@@ -3,13 +3,101 @@
 https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png" group-title="INDONESIA",20D TRANSMEDIA
-https://video.detik.com/20detik/smil:20detik-breakingnews.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/232752132.png" group-title="INDONESIA",THRILL V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png" group-title="INDONESIA",detik tv TRANSMEDIA
-https://video.detik.com/20detik/smil:20detik-live.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/3e83383c6.png" group-title="INDONESIA",IMC TV V+
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/b524eec16.png" group-title="INDONESIA",UNIQUES V+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn.aceimg.com/847925cad.png" tvg-logo="https://cdn.aceimg.com/de2c73d2f.png" group-title="Indonesia",BMSTV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" group-logo="https://cdn.aceimg.com/847925cad.png" tvg-logo="https://cdn.aceimg.com/b21dd3806.png" group-title="INDONESIA",NUSANTARA TV FM
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://cdn.aceimg.com/41c51855a.jpg" group-title="INDONESIA",BTV FM
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+
+#EXTINF:-1 group-logo="https://cdn.aceimg.com/847925cad.png" tvg-logo="https://cdn.aceimg.com/406e654a5.png" group-title="INDONESIA",VISION PRIME V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/347bb95a4.png" group-title="INDONESIA",ROCK ENTERTAINMENT V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 tvg-id="79" tvg-logo="https://cdn.aceimg.com/5648e0535.png" group-title="INDONESIA",AXN V+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=das
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=79
+https://ayo.maling.pl/Vision/index.mpd?id=79
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.aceimg.com/0734c5c0d.png" group-title="INDONESIA",CELESTIAL CLASSIC V+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=das
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=45
+https://ayo.maling.pl/Vision/index.mpd?id=45
+
+#EXTINF:-1 tvg-id="44" tvg-logo="https://cdn.aceimg.com/a6bfcc1ca.png" group-title="INDONESIA",CELESTIAL MOVIES V+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=das
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=44
+https://ayo.maling.pl/Vision/index.mpd?id=44
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdn.aceimg.com/51677f7ba.png" group-title="INDONESIA",CINEEDGE V+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/a22c50d6d.png" group-title="INDONESIA",GALAXY PREMIUM V+
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GALAXY.id" tvg-name="GALAXY" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/e1624f298.png" group-title="INDONESIA",GALAXY TV V+
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.aceimg.com/268RR8gF8.jpg" group-title="INDONESIA",TVRI NASIONAL Vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -62,7 +150,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce016658680
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:- 1 tvg-name="IDX Channel" tvg-logo="https://i.imgur.com/uwrlE8z.jpeg" tvg-id="TV One.id" group-title="INDONESIA",IDX CHANNEL V+
+#EXTINF:- 1 tvg-name="IDX Channel" tvg-logo="https://cdn.aceimg.com/863a52351.png" tvg-id="TV One.id" group-title="INDONESIA",IDX CHANNEL V+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -70,22 +158,22 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 
-#EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.imgur.com/1F0683P.jpeg" tvg-id="VTV.id" group-title="INDONESIA",VTV (YouTV)
+#EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.ibb.co.com/NddZ83fS/08c64f160e7bf6aff13c7af781d441a4.jpg" tvg-id="VTV.id" group-title="INDONESIA",VTV (YouTV)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/551sa9e.jpeg" tvg-id="Garuda TV Nasional.id" group-title="INDONESIA",GARUDA TV TransVision
+#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://cdn.aceimg.com/09ccf2a24.jpg" tvg-id="Garuda TV Nasional.id" group-title="INDONESIA",GARUDA TV TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
 
-#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/3gmFORP.jpeg" tvg-id="Garuda TV Nasional.id" group-title="INDONESIA",GARUDA TV FM
+#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://cdn.aceimg.com/09ccf2a24.jpg" tvg-id="Garuda TV Nasional.id" group-title="INDONESIA",GARUDA TV FM
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.ytimg.com/vi/iLoE00l0Vyg/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvpcOvkxQn6jrwG_lg7JhEcqX8jA" group-title="INDONESIA",SINDONEWSTV V+
@@ -184,7 +272,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e77
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-name="Kompas TV " tvg-logo="https://cdn.aceimg.com/1866df078.jpg" tvg-id="Kompas TV Nasional.id" group-title="INDONESIA", KOMPAS TV TransVision
+#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="https://cdn.aceimg.com/1866df078.jpg" tvg-id="Kompas TV Nasional.id" group-title="INDONESIA",KOMPAS TV TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROPOP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -200,12 +288,12 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://cdn.aceimg.com/1866df078.jpg" group-title="INDONESIA",KOMPASTV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://cdn.aceimg.com/1866df078.jpg" group-title="INDONESIA",KOMPASTV FM
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.aceimg.com/1866df078.jpg" group-title="INDONESIA",KOMPASTV V+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -214,7 +302,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=13
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://cdn.aceimg.com/1e93ed2e8.jpg" group-title="INDONESIA",MDTV
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://cdn.aceimg.com/1e93ed2e8.jpg" group-title="INDONESIA",MDTV FM
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://cdn.aceimg.com/1e93ed2e8.jpg" group-title="INDONESIA",MDTV V+
@@ -234,7 +322,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 
 #EXTINF:-1 tvg-name="MetroTV" tvg-logo="https://cdn.aceimg.com/f315f74ca.jpg" tvg-id="MetroTv.id" group-title="INDONESIA", METROTV TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -250,14 +338,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTINF:-1 tvg-logo="https://cdn.aceimg.com/0d3fa609b.jpg" group-title="INDONESIA",MNCTV Vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=dash
 
 #EXTINF:- 1 tvg-name="MNCTV" tvg-logo="https://cdn.aceimg.com/0d3fa609b.jpg" tvg-id="Mnctv.id" group-title="INDONESIA",MNCTV TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -276,7 +364,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://cdn.aceimg.com/3d85137e6.png" tvg-id="Rcti.id" group-title="INDONESIA",RCTI TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -285,7 +373,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 #EXTINF:-1 tvg-logo="https://cdn.aceimg.com/3d85137e6.png" group-title="INDONESIA",RCTI Vidio
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=dash
@@ -312,7 +400,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
@@ -327,14 +415,14 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:- 1 tvg-name="Trans 7" tvg-logo="https://cdn.aceimg.com/2f6089585.jpg" tvg-id="Trans 7.id" group-title="INDONESIA", TRANS 7 TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -351,9 +439,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:- 1tvg-name="Trans TV" tvg-logo="https://cdn.aceimg.com/58aa51b46.png" tvg-id="Trans TV.id" group-title="INDONESIA", TRANS TV TransVision
+#EXTINF:- 1tvg-name="TRANS TV" tvg-logo="https://cdn.aceimg.com/58aa51b46.png" tvg-id="Trans TV.id" group-title="INDONESIA", TRANS TV TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=das
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -390,51 +478,3 @@ https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://cdn.aceimg.com/6cc084da2.jpg" group-title="INDONESIA",TVONE V+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-
-#EXTINF:-1 tvg-id="79" tvg-logo="https://cdn.aceimg.com/5648e0535.png" group-title="INDONESIA",AXN V+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=79
-https://ayo.maling.pl/Vision/index.mpd?id=79
-
-#EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.aceimg.com/0734c5c0d.png" group-title="INDONESIA",CELESTIAL CLASSIC V+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=45
-https://ayo.maling.pl/Vision/index.mpd?id=45
-
-#EXTINF:-1 tvg-id="44" tvg-logo="https://cdn.aceimg.com/a6bfcc1ca.png" group-title="INDONESIA",CELESTIAL MOVIES V+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=44
-https://ayo.maling.pl/Vision/index.mpd?id=44
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdn.aceimg.com/51677f7ba.png" group-title="INDONESIA",CINEEDGE V+
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/a22c50d6d.png" group-title="INDONESIA",GALAXY PREMIUM V+
-https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GALAXY.id" tvg-name="GALAXY" group-logo="https://cdn.aceimg.com/9f0ce8f2f.jpg" tvg-logo="https://cdn.aceimg.com/e1624f298.png" group-title="INDONESIA", GALAXY TV V+
-https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
